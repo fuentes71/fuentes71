@@ -5,18 +5,18 @@
 <span align="center">
  
 ### Main skills:
-[![My Skills](https://skills.thijs.gg/icons?i=ts,react,java,spring,postgres)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=ts,react,java,spring,angular)](https://skills.thijs.gg)
 
 
 ### Tools:
 [![Tools](https://skills.thijs.gg/icons?i=github,vscode,idea,postman,vercel,netlify)](https://skills.thijs.gg)
 
 ### Other Knowledge:
-[![Other Knowledge](https://skills.thijs.gg/icons?i=angular,figma,docker)](https://skills.thijs.gg)
+[![Other Knowledge](https://skills.thijs.gg/icons?i=postgres,figma,docker)](https://skills.thijs.gg)
 
  
 ### Studying in this moment:
-[![Other Knowledge](https://skills.thijs.gg/icons?i=react,spring,postgres)](https://skills.thijs.gg)
+[![Other Knowledge](https://skills.thijs.gg/icons?i=react,angular)](https://skills.thijs.gg)
 
 
 
